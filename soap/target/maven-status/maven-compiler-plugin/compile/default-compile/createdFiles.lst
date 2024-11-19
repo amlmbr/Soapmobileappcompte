@@ -1,0 +1,7 @@
+com\ensa\soap\repositories\CompteRepository.class
+com\ensa\soap\config\CxfConfig.class
+com\ensa\soap\entities\Compte.class
+com\ensa\soap\entities\TypeCompte.class
+com\ensa\soap\SoapApplication.class
+com\ensa\soap\controllers\CompteController.class
+com\ensa\soap\ws\CompteSoapService.class
